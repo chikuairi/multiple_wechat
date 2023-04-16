@@ -1,4 +1,5 @@
 @echo off
-start D:\Wechat\wechat.exe
-start D:\Wechat\wechat.exe
-pause
+start /d "D:\Wechat\" WeChat.exe
+start /d "D:\Wechat\" WeChat.exe
+exit
+
